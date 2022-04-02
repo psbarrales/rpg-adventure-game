@@ -1,6 +1,7 @@
 # RPG Adventure
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Estado en GitHub Action](https://github.com/psbarrales/rpg-adventure-game/actions/workflows/gradle-test.yml/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b5089536e4b4337b484a652981d7f14)](https://www.codacy.com/gh/psbarrales/rpg-adventure-game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=psbarrales/rpg-adventure-game&amp;utm_campaign=Badge_Grade)
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 

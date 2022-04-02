@@ -29,3 +29,7 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
+
+## Known issues
+### Building on M1 Apple
+According to the issue [6084](https://github.com/libgdx/libgdx/issues/6084#issuecomment-886175274) on libGDX repository we need to override LWJGL3 version
